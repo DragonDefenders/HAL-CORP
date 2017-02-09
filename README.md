@@ -49,13 +49,18 @@ Robert,James,Robert James,Robert James,rjames01
 Sonny,Warren,Sonny Warren,Sonny Warren,swarren1
 Harold,Fry,Harold Fry,Harold Fry,hfry01234
 Lewis,Mableton,Lewis Mableton,Lewis Mableton,lmableto
-Ryan,Walker,Ryan Walker,Ryan Walker,rwalker1
 Thomas,Hill,Thomas Hill,Thomas Hill,thill012
-David,Teo,David Teo,David Teo,dteo0123
-Adam,Shuman,Adam Shuman,Adam Shuman,ashuman1
 Justin,Lance,Justin Lance,Justin Lance,jlance01
-Esgaro,Arroyo,Esgaro Arroyo,Esgaro Arroyo,earroyo1
+David,Teo,David Teo,David Teo,dteo0123
+Samuel,Hale,Samuel Hale,Samuel Hale,shale420
+Samuel,Cleveland, Samuel Cleveland,Samuel Cleveland,clevelan
+Addison,Threat,Addison Threat,Addison Threat,athreat1
+Madeline,Sides,Madeline Sides,Madeline Sides,msides01
 Kasey,McCall,Kasey McCall,Kasey McCall,kmccall1
+Esgardo,Arroyo,Esgardo Arroyo,Esgardo Arroyo,earroyo1
+Joshua,Beekman,Joshua Beekman,Joshua Beekman,jbeekman
+Mark,Switzer,Mark Switzer,Mark Switzer,mswitzer
+Raygan,Dunlap,Raygan Dunlap,Raygan Dunlap,rdunlap1
 Gary,Fischer,Gary Fischer,Gary Fischer,gfischer
 Gary,Fischer,Gary Fischer,Gary Fischer,gfisch01
 Vijay,Patel,Vijay Patel Sr,Vijay Patel Sr,vpatelsr
